@@ -41,6 +41,7 @@ h1{
 }
 .forma>*{
     margin: 10px;
+    color: rgb(255, 255, 255);
 }
 .forma>select{
     min-width: 200px;
@@ -64,3 +65,4 @@ h1{
     box-shadow: 0 3px 5px 0 rgba(255, 255, 255, 0.603);
     font-size: 30px;
 }
+
