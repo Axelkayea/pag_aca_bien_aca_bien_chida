@@ -28,6 +28,8 @@ h1{
 
 .forma{
     display: grid;
+    min-width: 300px;
+    max-width: 500px;
     margin: 30px;
     padding: 10px;
     font-size: 20px;
