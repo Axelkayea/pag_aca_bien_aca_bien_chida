@@ -27,7 +27,7 @@ h1{
 }
 
 .forma{
-    display: grid;
+    display: block;
     min-width: 300px;
     max-width: 500px;
     margin: 30px;
@@ -36,6 +36,7 @@ h1{
     border-radius: 25px;
     background: rgba(255, 255, 255, 0.251);
     backdrop-filter: blur(30px);
+    text-align: center;
     box-shadow: 0 3px 5px 0 rgba(255, 255, 255, 0.603);
     transition: all 0.3s ease-in-out;
 }
